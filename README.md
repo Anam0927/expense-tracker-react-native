@@ -1,1 +1,3 @@
-# expense-tracker-react-native
+# Expense Tracker
+
+Made with React Native (with Expo)
