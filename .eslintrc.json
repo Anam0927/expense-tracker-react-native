@@ -19,6 +19,7 @@
   ],
   "root": true,
   "rules": {
+    "global-require": "off",
     "no-unused-vars": "off",
     "unused-imports/no-unused-imports": "error", // auto remove unused imports
     "unused-imports/no-unused-vars": [
